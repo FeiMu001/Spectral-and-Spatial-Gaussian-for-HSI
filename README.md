@@ -53,25 +53,25 @@ Implicit Neural Representations (INRs) achieve strong performance in hyperspectr
 <details>
 <summary><strong>Continuous Representation Result for the Chikusei Dataset</strong> (click to expand) </summary>
 
-<img src = "images/visual1.png"> 
+<img src = "figs/visual1.png"> 
 </details>
 
 <details>
 <summary><strong>Continuous Representation Result for theHouston 2018 HSI Dataset</strong> (click to expand) </summary>
 
-<img src = "images/visual2.png"> 
+<img src = "figs/visual2.png"> 
 </details>
 
 <details>
 <summary><strong>Compression Results for the Chikusei Dataset</strong> (click to expand) </summary>
 
-<img src = "images/visual3.png"> 
+<img src = "figs/visual3.png"> 
 </details>
 
 <details>
 <summary><strong>Compression Results for the Pavia Centre Dataset</strong> (click to expand) </summary>
 
-<img src = "images/visual4.png"> 
+<img src = "figs/visual4.png"> 
 </details>
 
 ## 📖 Citation 
