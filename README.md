@@ -1,5 +1,6 @@
 <div align=center class="logo">
-<img src="figs/logo.png" style="width:640px">
+<img src="figs/logo.png" style="width:640px; margin: 0; padding: 0; display: block;">
+</div>
 
 # S²Gaussian: Explicit Continuous Spatial-Spectral Representation for Hyperspectral Images
 
