@@ -19,7 +19,7 @@
 - ☐ Release our [manuscript]().
 - **2026.1.9**: ✅ This repo is created.
 
-## 📋 Overview 
+<!-- ## 📋 Overview 
 <div align="center"> <table> <tr> <td align="center"><img src="figs/1.png" width="255"><br>Comparison</td> <td align="center"><img src="figs/2.png" width="425"><br>Workflow</td> </tr> </table> </div>
 
 ## 📝 Abstract
@@ -77,6 +77,6 @@ Implicit Neural Representations (INRs) achieve strong performance in hyperspectr
 ## 📖 Citation 
 ```
 
-```
+``` -->
 ## 📧 Contact
 If you have any questions, please contact the email <mufei970217@163.com> or <3565741165@qq.com>.
