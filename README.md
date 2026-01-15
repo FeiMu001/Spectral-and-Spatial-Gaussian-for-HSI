@@ -9,7 +9,7 @@
 
 [AIIA Lab](https://aiialabhit.github.io/team/), Harbin Institute of Technology.
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](http://arxiv.org/abs/2411.18466)
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
 ![GitHub Repo stars](https://img.shields.io/github/stars/FeiMu001/Spectral-and-Spatial-Gaussian?style=social)
 </div>
 
